@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeightCaluateDemo</string>
+    <string name="title">个人标准身高计算器</string>
+    <string name="Unit">kg</string>
+    <string name="weight">请输入体重：</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="xingbie">请选择你的性别：</string>
+    <string name="calculator">运算</string>
+    <string name="result"></string>
+    <string name="action_settings">action_settings</string>
+</resources>
